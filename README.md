@@ -35,5 +35,3 @@ Marc Bajona, estudiant de segon curs de SDAMV a l'Escola Joviat (Manresa).
 [Exercici 4]: <https://github.com/mabamo1/M17-UF2-Repte3/tree/master/repte3_ex4>
 [Exercici 5]: <https://github.com/mabamo1/M17-UF2-Repte3/tree/master/repte3_ex5>
 [Exercici 6]: <https://github.com/mabamo1/M17-UF2-Repte3/tree/master/repte3_ex6>
-# M17-UF2-Repte3
-Repositori que conté la resolució dels exercicis corresponents al Repte 3 de M17 UF2
