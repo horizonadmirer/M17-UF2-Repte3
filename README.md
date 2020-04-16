@@ -19,7 +19,13 @@ Repositori corresponent als exercicis del [Repte 3] de M17-UF2.
 Es pot trobar tota la informació relativa a les preguntes o aclaracions del [Repte] en el codi corresponent a cada [exercici](#continguts).
 
 ### Exercici 1
-(per redactar)
+La classe que s'indica en el [Repte] en la segona pàgina és un codi per crear objectes de tipus Mover. Aquest objecte té la particularitat de tenir unes variables PVector per il·lustrar la seva ubicació en l'escena i la seva velocitat de moviment, ambdues generades de manera aleatòria amb el mètode random().
+
+Cada vegada que s'executi el mètode update() sobre l'objecte, s'aplicarà la suma de la velocitat en la seva ubicació actual. 
+
+Per mostrar aquest objecte en l'escena s'utilitzarà el mètode display(), que pintarà un cercle de color gris i el seu contorn negre, en la seva ubicació actual amb una mida de 16.
+
+I per últim, també conté el mètode checkEdges() que controlarà els eixos X i Y per quan l'objecte surti de l'escena, torni a aparèixer, però en el cantó oposat.
 
 ## Sobre el creador
 Marc Bajona, estudiant de segon curs de SDAMV a l'Escola Joviat (Manresa).
